@@ -1,0 +1,13 @@
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Form2.resources
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.exe.config
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.exe
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.pdb
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\bin\Debug\WindowsApp5.xml
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.exe
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.xml
+C:\Users\Omkar\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.pdb
